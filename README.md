@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0169-majority-element) |
+| [0682-baseball-game](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
