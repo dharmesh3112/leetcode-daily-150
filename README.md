@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/2073-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
