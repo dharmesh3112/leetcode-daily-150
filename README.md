@@ -116,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/2073-time-needed-to-buy-tickets) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/dharmesh007-ai/leetcode-daily-150/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
